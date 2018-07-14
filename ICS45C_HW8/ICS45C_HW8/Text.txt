@@ -1,0 +1,9 @@
+for_each(strit(stop), strit(),
+	[&](const string & word){ s.insert(word); });
+
+for (auto E : m) results << setw(15)
+	<< left << E.first << right << ": " << E.second << endl;
+
+
+for_each(intit(rand), intit(),
+	[&](const int & num){ m.insert(num); });

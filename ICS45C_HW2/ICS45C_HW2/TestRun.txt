@@ -1,0 +1,129 @@
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  1
+
+How many quarters?  1
+How many dimes?  1
+How many nickels?  1
+How many pennies?  1
+Deposit operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 41 cents, composed of:
+1 quarters, 1 dimes, 1 nickels, and 1 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  2
+
+How many cents do you want to take out?  9999
+Insufficient amount
+Extraction operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 41 cents, composed of:
+1 quarters, 1 dimes, 1 nickels, and 1 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  2
+
+How many cents do you want to take out?  37
+Not enough coins. Cannot provide change
+Extraction operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 41 cents, composed of:
+1 quarters, 1 dimes, 1 nickels, and 1 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  2
+
+How many cents do you want to take out?  36
+Extraction operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 5 cents, composed of:
+0 quarters, 0 dimes, 1 nickels, and 0 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  1
+
+How many quarters?  50
+How many dimes?  50
+How many nickels?  50
+How many pennies?  50
+Deposit operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 2055 cents, composed of:
+50 quarters, 50 dimes, 51 nickels, and 50 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  2
+
+How many cents do you want to take out?  2000
+Extraction operation complete
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  3
+
+You have 55 cents, composed of:
+0 quarters, 0 dimes, 1 nickels, and 50 pennies
+
+
+(1) Deposit change
+(2) Extract change
+(3) View balance
+(4) Exit the program
+Enter a number:  4
+
+Press any key to continue . . .

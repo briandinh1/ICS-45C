@@ -1,0 +1,11 @@
+Give an estimate of the relative efficiency of each of the following two assignments (I mean how many function calls, how many copies are made, etc): 
+String s("Hello");
+String t("There");
+s = s + t;
+s += t;
+
+
+The way I have written my + and += operators makes the efficiency almost the same. 
+However, s = s + t may be slightly slower, because the program has to make both a copy of s and t
+In s+=t, the program just uses the s that already exists as 'this'. 
+Once concatenated into a new list, that list is then copied over to whatever variable is on the left side. 
